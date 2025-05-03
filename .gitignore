@@ -1,0 +1,9 @@
+# Ignore environment variables file (API keys)
+.env
+
+# Ignore Python cache files
+__pycache__/
+
+# You might also want to ignore any other local configurations or IDE files
+*.vscode/
+.idea/
